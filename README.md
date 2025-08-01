@@ -63,5 +63,3 @@ DM me anytime — I'm always up for building something awesome together.
 📷 **Instagram**: [@Lakshay\_7\_Sharma](https://www.instagram.com/Lakshay_7_Sharma) — Tech talk, collabs & vibes
 
 ---
-
-Let me know if you'd like this formatted for a GitHub README with badges, links, or a profile-level `readme.md`!
