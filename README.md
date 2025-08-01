@@ -1,19 +1,20 @@
----
-## 🚀 Employee Management Software
+# 🚀 Employee Management Software
 
 A Python-based project built for my Class 12 board exam. It uses **CSV files**, **Pandas**, and **Matplotlib** to manage employee records — add, update, delete, and visualize data with ease. It's scalable, cleanly coded, and a great introduction to data handling and visualization.
-##🔧 Setup Instructions
-## You have to download python 
-# GO to cmd and run these commands 
-**_
-pip install pandas
-pip install matplotlib
-Run the Project
-_**
+
 ---
 
+## 🔧 Setup Instructions
 
+### 1. Install Python  
+Make sure Python is installed on your system. You can download it from the official website:  
+👉 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
+### 2. Install Required Libraries  
+Open your terminal or command prompt and run the following commands:
+```bash
+pip install pandas
+pip install matplotlib
 
 ## 👋 About Me — Lakshay Sharma
 
