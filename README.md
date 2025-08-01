@@ -2,29 +2,29 @@
 Employee Management Software – A Python-based project built for my Class 12 board exam. It uses CSV files, Pandas, and Matplotlib to manage employee records—add, update, delete, and visualize data easily. It’s scalable and a great introduction to data handling and visualization.
 
 
-About Me
-#👋 Hey, I’m Lakshay Sharma
-
-“The people who are crazy enough to think they can change the world are the ones who do.”– Steve Jobs
-
+**About Me
+#👋 Hey, I’m Lakshay Sharma**
+**
+_“The people who are crazy enough to think they can change the world are the ones who do.”– Steve Jobs
+_**
 I'm a 19-year-old developer, dreamer, and builder, on a mission to transform ideas into reality through the power of code.
 
 Whether it's a web interface, an app prototype, or an automation script — I believe every line of code I write brings me one step closer to shaping the future I imagine.
 
-#🚀 Why I
+**#🚀 Why I**
 
-Technology isn’t just about syntax or semicolons — it’s a canvas for creativity, a tool for impact, and a path to innovation.
+_Technology isn’t just about syntax or semicolons — it’s a canvas for creativity, a tool for impact, and a path to innovation.
 
-If you’re looking for someone who is:
+If you’re looking for someone who is:_
 
-💡 Endlessly curious and always learning
+**💡 Endlessly curious and always learning
 
 ⚙ Obsessively driven by problem-solving and perfection
 
-🤝 Ready to collaborate on bold, meaningful projects
-
+🤝 Ready to collaborate on bold, meaningful projects**
+**_
 You’re in the right place.
-
+_**
 🛠 What I'm Building
 This space is more than a portfolio — it's a living lab of my journey:
 
