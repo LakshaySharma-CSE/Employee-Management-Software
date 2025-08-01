@@ -15,7 +15,7 @@ Open your terminal or command prompt and run the following commands:
 ```bash
 pip install pandas
 pip install matplotlib
-
+```
 ## 👋 About Me — Lakshay Sharma
 
 > *“The people who are crazy enough to think they can change the world are the ones who do.”*
